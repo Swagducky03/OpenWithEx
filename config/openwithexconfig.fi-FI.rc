@@ -1,3 +1,5 @@
+#pragma code_page(65001) // enable UTF-8
+
 #include <windows.h>
 #include "resource.h"
 
