@@ -1,3 +1,7 @@
+#pragma code_page(65001) // enable UTF-8
+
+#include "openwithex.h"
+
 LANGUAGE LANG_FINNISH, SUBLANG_FINNISH_FI
 
 STRINGTABLE
