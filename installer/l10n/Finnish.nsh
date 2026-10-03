@@ -1,0 +1,5 @@
+!define LANG "Finnish"
+!insertmacro LANG_STRING STRING_NOT_X64 "OpenWithEx ei tue 32-bittisi\xE4 laitteita."
+!insertmacro LANG_STRING STRING_NOT_WIN8 "OpenWithEx vaatii v\xE4hint\xE4\xE4n Windows 8 -k\xE4ytt\xF6j\xE4rjestelm\xE4n."
+!insertmacro LANG_STRING STRING_CONFIG_SHORTCUT "Muuta OpenWithEx:n asetuksia"
+!insertmacro LANG_STRING STRING_LANGS "Kielet"
